@@ -1,0 +1,28 @@
+name: Shenyo
+favicon: null
+layout_spectrum: 0.7658959582913667
+typography_spectrum: 0.08332974649965763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.870609211968258
+  lightness: 0.5969562693499029
+  saturation: 0.3895073018502444
+  rhythmicContrast: 0.4241113995667547
+purpose: []
